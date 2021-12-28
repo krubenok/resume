@@ -275,6 +275,5 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 resume/__latexindent_temp.tex
-resume.pdf
 __latexindent_temp.tex
 __latexindent_temp.pdf
