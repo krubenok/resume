@@ -1,6 +1,6 @@
 # Resume
 
-Professional resume for [Kyle Rubenok](https://github.com/krubenok). See the latest version on [my webstie](https://nerd-ramblings.com/about) or in the releases section of this repo.
+Professional resume for [Kyle Rubenok](https://github.com/krubenok). See the latest compiled version in `resume.pdf`
 
 ## How to Use
 
