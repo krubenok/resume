@@ -14,7 +14,7 @@ At a command prompt, run `xelatex resume.tex` This should result in the creation
 
 ## Credit
 
-[**Awesome-CV](https://github.com/posquit0/Awesome-CV) by [Claud D. Park](http://www.posquit0.com) who created this excellent template that I follow.
+[**Awesome-CV**](https://github.com/posquit0/Awesome-CV) by [Claud D. Park](http://www.posquit0.com) who created this excellent template that I follow.
 
 [**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
 
