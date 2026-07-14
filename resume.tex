@@ -18,10 +18,13 @@
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
-\documentclass[11pt, a4paper]{awesome-cv}
+\documentclass[10pt, letterpaper]{awesome-cv}
 
 % Configure page margins with geometry
-\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\geometry{left=1.4cm, top=.7cm, right=1.4cm, bottom=1.2cm, footskip=.5cm}
+
+% Keep the page opaque so the PDF renders correctly in dark-mode viewers.
+\pagecolor{white}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -54,7 +57,7 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{./examples/profile}
 \name{Kyle}{Rubenok}
-% \position{Product Manager \& Technology Enthusiast based out of Seattle, WA}
+\position{Senior Product Manager | AI Agents, Developer Platforms \& Enterprise Security}
 % \address{Seattle, WA, USA}
 
 \mobile{+1 (425) 428-7668}
@@ -86,7 +89,7 @@
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
-  {Compiled on \today}
+  {Co-written with Codex and GPT-5.6-Sol}
   {}
   {Kyle Rubenok~~~·~~~Résumé}
 
@@ -95,7 +98,7 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-% \input{resume/summary.tex}
+\input{resume/summary.tex}
 \input{resume/experience.tex}
 % \input{resume/honors.tex}
 % \input{resume/presentation.tex}
